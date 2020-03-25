@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ffca3864-924d-418b-b550-d8ef514c5eff" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZWbHTzAMDjEKR497KgSECbsXZj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Calculator">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Calculator" />
+      <module name="StringCalculator.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringCalculator [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.StringCalculator [dependencies]" />
+        <item itemvalue="Application.Calculator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffca3864-924d-418b-b550-d8ef514c5eff" name="Default Changelist" comment="" />
+      <created>1584957709380</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584957709380</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="131" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1585054853616">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="413" y="131" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1366.768@0.0.1366.768" timestamp="1585054853616" />
+    <state width="1323" height="189" key="GridCell.Tab.0.bottom" timestamp="1585121843111">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="189" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1585121843111" />
+    <state width="1323" height="189" key="GridCell.Tab.0.center" timestamp="1585121843111">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="189" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1585121843111" />
+    <state width="1323" height="189" key="GridCell.Tab.0.left" timestamp="1585121843111">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="189" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1585121843111" />
+    <state width="1323" height="189" key="GridCell.Tab.0.right" timestamp="1585121843111">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="189" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1585121843111" />
+    <state x="731" y="12" key="refactoring.ChangeSignatureDialog" timestamp="1585039605138">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="731" y="12" key="refactoring.ChangeSignatureDialog/0.0.1366.768@0.0.1366.768" timestamp="1585039605138" />
+  </component>
+</project>
