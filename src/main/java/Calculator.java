@@ -44,7 +44,7 @@ public class Calculator
         }
         else if (text.startsWith("//"))
         {
-            String[] splits = text.split("\n",2);
+            String[] splits = text.split(";|\n",2);
             delimeter = splits[0].substring(2);
             text = splits[1];
         }
