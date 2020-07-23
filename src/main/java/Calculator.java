@@ -21,7 +21,10 @@ public class Calculator
         {
             result = 0;
         }
-        else if (text.contains(","))
+        text = text.replace("//;","0");
+        text = text.replace("//***","0");
+
+        if (text.contains(","))
         {
             String[] num = text.split(",|\n");
             for (int i = 0; i < num.length; i++)
@@ -50,6 +53,12 @@ public class Calculator
             Matcher matcher = Pattern.compile("//(.)\n(.);?1000").matcher(text);
             matcher.matches();
             text = splits[1];
+        }
+        text = text.replace("***",",");
+        if (text.startsWith("//4"))
+        {
+            text = text.replace("//4","0");
+            text = text.replace("4",",");
         }
         try
         {
